@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Prateek Kumar</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?lines=Frontend+Developer;WordPress+Intern;JavaScript+Learner;UI+Focused+Web+Developer;Building+Creative+Real+World+Projects&center=true&width=750&height=45">
+<img src="https://readme-typing-svg.herokuapp.com?lines=Frontend+Developer;Freelance+Web+Developer;JavaScript+Learner;UI+Focused+Web+Developer;Building+Creative+Real+World+Projects&center=true&width=750&height=45">
 </p>
 
 <p align="center">
