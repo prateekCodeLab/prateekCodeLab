@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <a href="https://prateekcodelab.netlify.app/" target="_blank">🌐 Portfolio</a> • 
+  <a href="https://prateekcodelab.vercel.app/" target="_blank">🌐 Portfolio</a> • 
   <a href="mailto:prateekkmr3151@gmail.com">📧 Email</a> • 
   <a href="https://github.com/prateekCodeLab" target="_blank">💻 GitHub</a>
 </p>
