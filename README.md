@@ -41,7 +41,7 @@ I'm also part of the **Launchpad – Ignite Your Potential** program, where I bu
 
 ### 🎨 Developer Portfolio Website  
 A modern portfolio built with **HTML, CSS, and JavaScript**, featuring animations, dark mode, smooth UI transitions, and responsive design  
-🔗 Live Demo: https://prateekcodelab.netlify.app/
+🔗 Live Demo: https://prateekcodelab.vercel.app/
 
 ---
 
