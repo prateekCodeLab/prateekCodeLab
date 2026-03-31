@@ -1,50 +1,51 @@
-# PrateekCodeLab
+# Animated Header Version
 
-Welcome to my GitHub repository!
+## Prateek Kumar Branding
+
+This section showcases the branding related to Prateek Kumar, including logos and visuals relevant to his projects and portfolio.
+
+## Typing Animation
+
+A fun typing animation feature that highlights the various programming languages and technologies I work with.
+
+## About Me Section
+
+A brief introduction about Prateek Kumar, his background in software development, and his journey in tech.
+
+## Tech Stack with Skill Icons
+
+| Language/Technology | Skill Level |
+|---------------------|-------------|
+| JavaScript          | ![JavaScript](icon-link) |
+| React               | ![React](icon-link) |
+| Node.js            | ![Node.js](icon-link) |
 
 ## Featured Projects
 
-- [Project 1](https://github.com/prateekCodeLab/project1) - Description of Project 1 (Tech Stack: [Tech 1, Tech 2])
-- [Project 2](https://github.com/prateekCodeLab/project2) - Description of Project 2 (Tech Stack: [Tech A, Tech B])
-- [Project 3](https://github.com/prateekCodeLab/project3) - Description of Project 3 (Tech Stack: [Tech X, Tech Y])
+### Developer Portfolio Website
 
-## Open-Source Contributions
+A personal website showcasing skills, projects, and contact information.
 
-I contribute to the following projects:
-- [Open Source Project 1](https://github.com/open-source1) - Description (Tech Stack: [Tech A])
-- [Open Source Project 2](https://github.com/open-source2) - Description (Tech Stack: [Tech B])
+### Library Management System
 
-## About This Repository
+A web application to manage library operations and transactions.
 
-This repository consists of different projects that highlight my coding skills and dedication to open-source contributions.
+## Currently Learning
 
-## Getting Started
+Ongoing exploration of advanced topics in software development including machine learning and cloud computing.
 
-To get a copy of this repository up and running on your local machine for development and testing purposes, follow the instructions provided.
+## Open To
 
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/prateekCodeLab/prateekCodeLab.git
-   ```
-2. Change directory:
-   ```bash
-   cd prateekCodeLab
-   ```
-3. Install dependencies:
-   ```bash
-   npm install
-   ```
+I am open to opportunities in web development, machine learning, and open-source contributions.
 
-## License
+## GitHub Performance Stats
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+![GitHub Stats Graph](graph-link)
 
-## Acknowledgments
+## Creative Zone
 
-- Inspiration
-- Code snippets used
-- Collaborators
+A gallery or space for showcasing creative work that doesn’t fit into the traditional development portfolio.
 
-## Contact
+### Footer with Capsule Render Animation
 
-For any inquiries, feel free to reach out through GitHub or email me at: [email@example.com].
+A captivating capsule animation in the footer that enhances user experience by creatively summarizing page content.
