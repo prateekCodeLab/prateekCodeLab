@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prateek Kumar</h1>
-<h3 align="center">🚀 Frontend Developer | WordPress Expert | SEO Optimizer</h3>
+<h3 align="center"> Frontend Developer | WordPress Expert | SEO Optimizer</h3>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Frontend+Developer;WordPress+Expert;SEO+Specialist;Building+High+Performance+Websites;Freelancer+Open+for+Work" />
@@ -9,12 +9,12 @@
 
 ## 🚀 About Me
 
-- 💻 Freelance Web Developer (10+ Projects Delivered)
-- 🌐 Expert in **Responsive, SEO-Optimized Websites**
-- ⚡ Improved website performance by **40%+**
-- 📈 Helped businesses increase engagement & conversions
-- 🎯 Focused on **UI/UX + Performance + Clean Code**
-- 🧠 Currently learning: **Advanced JavaScript & System Design**
+-  Freelance Web Developer (10+ Projects Delivered)
+-  Expert in **Responsive, SEO-Optimized Websites**
+-  Improved website performance by **40%+**
+-  Helped businesses increase engagement & conversions
+-  Focused on **UI/UX + Performance + Clean Code**
+-  Currently learning: **Advanced JavaScript & System Design**
 
 ---
 
@@ -89,9 +89,9 @@
 
 ## 🔥 Currently Open For
 
-- 💼 Freelance Projects  
-- 🤝 Collaboration  
-- 🌍 Remote Opportunities  
+-  Freelance Projects  
+-  Collaboration  
+-  Remote Opportunities  
 
 ---
 
